@@ -25,7 +25,7 @@ SET time_zone = "+00:00";
 
 --
 -- Table structure for table `tbl_activities_details`
---
+-- 
 
 CREATE TABLE `tbl_activities_details` (
   `activities_details_id` int(11) NOT NULL,
